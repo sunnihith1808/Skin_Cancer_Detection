@@ -22,8 +22,8 @@ melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 
 ## General Information
 - To detect Skin cancer accurately using images by developing CNN Model
