@@ -36,7 +36,7 @@ melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 - Model 1 with dropout: Added few dropout layers then the model is underfit. (Training accuracy: 60% , Validation accuracy: 56%)
 - Model 2: Added few more convolutional layers to the base model. Metrics are not improved.(Training accuracy: 56% , Validation accuracy: 55%)
 - Model 3: Introduced data augumentation layer in the model with few options like rotation and flip.(Training accuracy: 58% , Validation accuracy: 57%). Model is underfir
-- Model 4 with Augumentation: Did augumentation with augumentor to deal with class imbalance problem. (Training accuracy: 91% , Validation accuracy: 83%)
+- Model 4 with Augumentation: Did augumentation with augumentor to deal with class imbalance problem. (Training accuracy: 90% , Validation accuracy: 82%)
 - Accuracy can still be improved by training the model for more epochs using the same CNN model
 - Accuracy can also be improved by using more CNN and or Dense layers in the model.
 
